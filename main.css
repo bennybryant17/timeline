@@ -1,0 +1,133 @@
+text {
+    font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, helvetica neue, helvetica, Ubuntu, roboto, noto, segoe ui, arial, sans-serif;
+    font-size: 12px;
+}
+
+.dim {
+    opacity: 0.15;
+}
+
+svg {
+    background-color: #EFF2F7;
+}
+
+rect {
+    fill: gray;
+    stroke: #000;
+
+    cursor: pointer;
+}
+path {
+    fill: none;
+    stroke-width: 2;
+    stroke: #333;
+
+    cursor: pointer;
+}
+circle, text {
+    cursor: pointer;
+}
+
+.scene:hover {
+    stroke-width: 2;
+    font-weight: bold;
+    z-index:100;
+}
+
+.intro:hover {
+    font-weight: bold;
+}
+
+/* White outline around the text */
+/*.intro text:first-child { */
+.outline {
+    fill: #fff;
+    stroke: #f9f9f9;
+    stroke-width: 3;
+}
+
+/* The different series */
+.s-field rect {
+    fill: green;
+}
+
+.s-capitol-steps rect {
+    fill: #1FB6FF;
+}
+
+.s-inside rect {
+    fill: mediumvioletred;
+}
+
+.s-senate-triangle rect {
+    fill: gray;
+}
+
+.s-ne-lawn rect {
+    fill: green;
+}
+
+.s-ne-steps rect {
+    fill: gray;
+}
+
+.s-nw-lawn rect {
+    fill: green;
+}
+
+.s-stone rect {
+    fill: yellow;
+}
+
+/* The different groups */
+.s-blue rect {
+    fill: blue;
+}
+
+.s-green rect {
+    fill: green;
+}
+
+.s-red rect {
+    fill: red;
+}
+
+.s-yellow rect {
+    fill: yellow;
+}
+
+.s-oh rect {
+    fill: #FB4F14;
+}
+
+.s-nj rect {
+    fill: #125740;
+}
+
+.s-ny rect {
+    fill: #0B2265;
+}
+
+.s-may rect {
+    fill: #785420;
+}
+
+.s-september rect {
+    fill: #3B37E1;
+}
+
+.s-october rect {
+    fill: #d1401e;
+}
+
+.s-november rect {
+    fill: #91092D;
+}
+
+.s-december rect {
+    fill: #F69440;
+}
+
+.s-unknown rect {
+    fill: white;
+}

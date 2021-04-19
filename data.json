@@ -1,0 +1,835 @@
+{
+  "characters": [
+    {
+      "name": "Sandra Parker",
+      "from": "red"
+    },
+    {
+      "name": "Crowl",
+      "from": "red"
+    },
+    {
+      "name": "Watkins",
+      "from": "red"
+    },
+    {
+      "name": "Connie Meggs",
+      "from": "red"
+    },
+    {
+      "name": "Camel",
+      "from": "red"
+    },
+    {
+      "name": "Steele",
+      "from": "red"
+    },
+    {
+      "name": "Duck",
+      "from": "red"
+    },
+    {
+      "name": "Kelly Meggs",
+      "from": "red"
+    },
+    {
+      "name": "Leather",
+      "from": "red"
+    },
+    {
+      "name": "Pack",
+      "from": "red"
+    },
+    {
+      "name": "Tail",
+      "from": "red"
+    },
+    {
+      "name": "Young",
+      "from": "red"
+    },
+
+
+    {
+      "name": "Harrelson",
+      "from": "blue"
+    },
+    {
+      "name": "Sour",
+      "from": "blue"
+    },
+
+    {
+      "name": "Bennie Parker",
+      "from": "green"
+    },
+    {
+      "name": "Caldwell",
+      "from": "green"
+    },
+    {
+      "name": "Camo",
+      "from": "green"
+    },
+    {
+      "name": "Dane",
+      "from": "green"
+    },
+    {
+      "name": "Dogman",
+      "from": "green"
+    },
+    {
+      "name": "Durfee",
+      "from": "green"
+    },
+    {
+      "name": "Goat",
+      "from": "green"
+    },
+    {
+      "name": "Gruff",
+      "from": "green"
+    },
+    {
+      "name": "Helmet",
+      "from": "green"
+    },
+    {
+      "name": "Hoodie",
+      "from": "green"
+    },
+    {
+      "name": "Jeans",
+      "from": "green"
+    },
+    {
+      "name": "Pads",
+      "from": "green"
+    },
+    {
+      "name": "Rhodes",
+      "from": "green"
+    },
+    {
+      "name": "Scarf",
+      "from": "green"
+    },
+    {
+      "name": "Shorty",
+      "from": "green"
+    },
+    {
+      "name": "Siniff",
+      "from": "green"
+    },
+    {
+      "name": "Skully",
+      "from": "green"
+    },
+    {
+      "name": "String",
+      "from": "green"
+    },
+    {
+      "name": "Stubby",
+      "from": "green"
+    },
+    {
+      "name": "Todd",
+      "from": "green"
+    },
+    {
+      "name": "Uncle",
+      "from": "green"
+    },
+
+    {
+      "name": "Brother",
+      "from": "yellow"
+    },
+    {
+      "name": "Checkered",
+      "from": "yellow"
+    },
+    {
+      "name": "Drewl",
+      "from": "yellow"
+    },
+    {
+      "name": "James",
+      "from": "yellow"
+    },
+    {
+      "name": "Flag",
+      "from": "yellow"
+    },
+    {
+      "name": "Minuta",
+      "from": "yellow"
+    },
+    {
+      "name": "Goofy",
+      "from": "yellow"
+    },
+    {
+      "name": "Smurf",
+      "from": "yellow"
+    },
+    {
+      "name": "Stone",
+      "from": "yellow"
+    }
+  ],
+  "films": [
+    {
+      "name": " 5/30 Freedom Rally NY",
+      "characters": [
+        "Durfee",
+        "Minuta",
+        "Rhodes"
+      ],
+      "series": "May",
+      "group": 4
+    },
+    {
+      "name": " 5/31 Columbia OH",
+      "characters": [
+        "Siniff",
+        "Watkins"
+      ],
+      "series": "May",
+      "group": 4
+    },
+    {
+      "name": "9/20 Ares FL",
+      "characters": [
+        "Duck",
+        "Harrelson",
+        "Connie Meggs",
+        "Kelly Meggs"
+      ],
+      "series": "September",
+      "group": 4
+    },
+    {
+      "name": "9/23-26 Louisville KY",
+      "characters": [
+        "Brother",
+        "Duck",
+        "Harrelson",
+        "Kelly Meggs",
+        "Rhodes",
+        "Siniff",
+        "Todd",
+        "Watkins"
+      ],
+      "series": "September",
+      "group": 4
+    },
+    {
+      "name": "10/25 Ares FL",
+      "characters": [
+        "Connie Meggs",
+        "Duck",
+        "Harrelson",
+        "Kelly Meggs"
+      ],
+      "series": "October",
+      "group": 4
+    },
+    {
+      "name": "11/7 Columbus OH",
+      "characters": [
+        "Crowl",
+        "Siniff",
+        "Watkins"
+      ],
+      "series": "November",
+      "group": 4
+    },
+    {
+      "name": "11/14 Million MAGA March DC",
+      "characters": [
+        "Bennie Parker",
+        "Brother",
+        "Caldwell",
+        "Connie Meggs",
+        "Crowl",
+        "Durfee",
+        "James",
+        "Kelly Meggs",
+        "Minuta",
+        "Rhodes",
+        "Sandra Parker",
+        "Watkins"
+      ],
+      "series": "November",
+      "group": 4
+    },
+    {
+      "name": "12/12 Million MAGA March DC",
+      "characters": [
+        "James",
+        "Minuta",
+        "Rhodes"
+      ],
+      "series": "December",
+      "group": 4
+    },
+    {
+      "name": "12/12 Miami FL",
+      "characters": [
+        "Duck",
+        "Kelly Meggs",
+        "Stone"
+      ],
+      "series": "December",
+      "group": 4
+    },
+    {
+      "name": "12/13 Fort Lauderdale FL",
+      "characters": [
+        "Kelly Meggs",
+        "Stone"
+      ],
+      "series": "December",
+      "group": 4
+    },
+    {
+      "name": "12/14 Largo FL",
+      "characters": [
+        "Connie Meggs",
+        "Stone",
+        "Young"
+      ],
+      "series": "December",
+      "group": 4
+    },
+    {
+      "name": "5th Supreme Court",
+      "characters": [
+        "Brother",
+        "Checkered",
+        "Connie Meggs",
+        "Flag",
+        "Goat",
+        "Goofy",
+        "Harrelson",
+        "James",
+        "Kelly Meggs",
+        "Leather",
+        "Smurf",
+        "Sour",
+        "String",
+        "Stone"
+      ],
+      "series": "Stone",
+      "group": 2
+    },
+    {
+      "name": "5th Tent outside",
+      "characters": [
+        "Bennie Parker",
+        "Crowl",
+        "Gruff",
+        "Pack",
+        "Sandra Parker",
+        "Watkins"
+      ],
+      "notes": "Hurley",
+      "series": "Freedom Plaza",
+      "group": 1
+    },
+    {
+      "name": "5th Tent inside",
+      "characters": [
+        "Brother",
+        "Checkered",
+        "Goofy",
+        "James",
+        "Smurf",
+        "Stone"
+      ],
+      "series": "Stone",
+      "group": 2
+    },
+    {
+      "name": "5th Willard hotel",
+      "characters": [
+        "Checkered",
+        "Drewl",
+        "Flag",
+        "Goofy",
+        "James",
+        "Smurf",
+        "Stone"
+      ],
+      "series": "Stone",
+      "group": 2
+    },
+    {
+      "name": "10:05 National Mall",
+      "characters": [
+        "Dogman"
+      ],
+      "series": "field",
+      "group": 2
+    },
+    {
+      "name": "10:16 Willard hotel",
+      "characters": [
+        "Checkered",
+        "Goofy",
+        "Minuta",
+        "Stone"
+      ],
+      "series": "Stone",
+      "group": 2
+    },
+    {
+      "name": "10:43 Willard hotel",
+      "characters": [
+        "Checkered",
+        "Goofy",
+        "James",
+        "Minuta",
+        "Smurf"
+      ],
+      "series": "Stone",
+      "group": 2
+    },
+    {
+      "name": "11:09 150 15th St. NW",
+      "characters": [
+        "Checkered",
+        "Dogman",
+        "Flag",
+        "Goofy",
+        "James",
+        "Minuta",
+        "Smurf"
+      ],
+      "series": "15th St. NW",
+      "group": 2
+    },
+    {
+      "name": "201-217 15th St. NW",
+      "characters": [
+        "Checkered",
+        "Dogman",
+        "Flag",
+        "Goofy",
+        "James",
+        "Minuta",
+        "Smurf"
+      ],
+      "series": "15th St. NW",
+      "group": 2
+    },
+    {
+      "name": "11:15 Ellipse/National Mall",
+      "characters": [
+        "Checkered",
+        "Dogman",
+        "Goofy",
+        "James",
+        "Smurf"
+      ],
+      "series": "field",
+      "group": 2
+    },
+    {
+      "name": "Ellipse field",
+      "characters": [
+        "Camel",
+        "Connie Meggs",
+        "Duck",
+        "Goat",
+        "Harrelson",
+        "Kelly Meggs",
+        "Leather",
+        "Pack",
+        "Scarf",
+        "Shorty",
+        "Sour",
+        "Steele",
+        "String",
+        "Stubby",
+        "Uncle",
+        "Watkins",
+        "Young"
+      ],
+      "series": "field",
+      "group": 1
+    },
+    {
+      "name": "12:53 Leave rally",
+      "characters": [
+        "Camel",
+        "Connie Meggs",
+        "Duck",
+        "Goat",
+        "Harrelson",
+        "Kelly Meggs",
+        "Leather",
+        "Pack",
+        "Scarf",
+        "Shorty",
+        "Sour",
+        "Steele",
+        "String",
+        "Uncle",
+        "Watkins",
+        "Young"
+      ],
+      "series": "Ellipse",
+      "group": 1
+    },
+    {
+      "name": "13:42 Big screen",
+      "characters": [
+        "Bennie Parker",
+        "Camel",
+        "Connie Meggs",
+        "Crowl",
+        "Duck",
+        "Goat",
+        "Gruff",
+        "Harrelson",
+        "Kelly Meggs",
+        "Leather",
+        "Pack",
+        "Sandra Parker",
+        "Shorty",
+        "Sour",
+        "Steele",
+        "String",
+        "Stubby",
+        "Watkins",
+        "Young"
+      ],
+      "series": "field",
+      "group": 1
+    },
+    {
+      "name": "13:xx 1111 Constitution Ave",
+      "characters": [
+        "Harrelson",
+        "Sour"
+      ],
+      "series": "Constitution Ave",
+      "group": 1
+    },
+    {
+      "name": "14:04 West Plaza",
+      "characters": [
+        "Drewl",
+        "Helmet",
+        "Jeans",
+        "Pads"
+      ],
+      "series": "West Plaza",
+      "group": 2
+    },
+    {
+      "name": "14:06 Penn Ave NW",
+      "characters": [
+        "Bennie Parker",
+        "Camel",
+        "Connie Meggs",
+        "Crowl",
+        "Duck",
+        "Goat",
+        "Kelly Meggs",
+        "Leather",
+        "Sandra Parker",
+        "Steele",
+        "Tail",
+        "Watkins",
+        "Young"
+      ],
+      "series": "Penn Ave NW",
+      "group": 1
+    },
+    {
+      "name": "14:07 steps",
+      "characters": [
+        "Harrelson",
+        "Sour"
+      ],
+      "series": "Capitol steps",
+      "group": 1
+    },
+    {
+      "name": "14:36 Train steps",
+      "characters": [
+        "Camel",
+        "Connie Meggs",
+        "Crowl",
+        "Duck",
+        "Harrelson",
+        "Kelly Meggs",
+        "Leather",
+        "Pack",
+        "Sandra Parker",
+        "Sour",
+        "Steele",
+        "Tail",
+        "Watkins",
+        "Young"
+      ],
+      "series": "Capitol steps",
+      "group": 1
+    },
+    {
+      "name": "14:46 Lower West Terrace",
+      "characters": [
+        "Caldwell"
+      ],
+      "series": "Capitol steps",
+      "group": 1
+    },
+    {
+      "name": "Inside",
+      "characters": [
+        "Camel",
+        "Connie Meggs",
+        "Crowl",
+        "Dogman",
+        "Duck",
+        "Flag",
+        "Harrelson",
+        "James",
+        "Kelly Meggs",
+        "Leather",
+        "Minuta",
+        "Pack",
+        "Sandra Parker",
+        "Smurf",
+        "Sour",
+        "Steele",
+        "String",
+        "Tail",
+        "Watkins",
+        "Young"
+      ],
+      "series": "Inside",
+      "group": 3
+    },
+    {
+      "name": "N of Rotunda",
+      "characters": [
+        "Sandra Parker",
+        "Pack",
+        "Tail",
+        "Crowl",
+        "Watkins",
+        "Young"
+      ],
+      "series": "Inside",
+      "group": 1
+    },
+    {
+      "name": "S of Rotunda",
+      "characters": [
+        "Connie Meggs",
+        "Duck",
+        "Harrelson",
+        "Kelly Meggs",
+        "Leather",
+        "String",
+        "Young"
+      ],
+      "series": "Inside",
+      "group": 1
+    },
+    {
+      "name": "Lower West Plaza",
+      "characters": [
+        "Dogman",
+        "Goofy",
+        "Flag",
+        "James",
+        "Minuta",
+        "Smurf"
+      ],
+      "series": "Lower West Plaza",
+      "group": 2
+    },
+    {
+      "name": "14:51 Senate Carriage Door",
+      "characters": [
+        "Dogman",
+        "Flag",
+        "Goofy",
+        "James",
+        "Minuta",
+        "Smurf"
+      ],
+      "series": "Senate Carriage Door",
+      "group": 2
+    },
+    {
+      "name": "15:13 Peace statue",
+      "characters": [
+        "Camel",
+        "Connie Meggs",
+        "Crowl",
+        "Duck",
+        "Harrelson",
+        "Kelly Meggs",
+        "Leather",
+        "Pack",
+        "Sandra Parker",
+        "Sour",
+        "Steele",
+        "Tail",
+        "Watkins",
+        "Young"
+      ],
+      "group": 1,
+      "series": "Capitol steps"
+    },
+    {
+      "name": "Steps down",
+      "characters": [
+        "Camel",
+        "Connie Meggs",
+        "Crowl",
+        "Duck",
+        "Harrelson",
+        "Kelly Meggs",
+        "Leather",
+        "Pack",
+        "Sour",
+        "Steele",
+        "Tail",
+        "Watkins"
+      ],
+      "series": "Capitol steps",
+      "group": 1
+    },
+    {
+      "name": "14:46 Waiting",
+      "characters": [
+        "Bennie Parker",
+        "Goat",
+        "Shorty",
+        "Stubby"
+      ],
+      "series": "Senate Triangle",
+      "group": 1
+    },
+    {
+      "name": "15:15 Senate Triangle",
+      "characters": [
+        "Camo",
+        "Rhodes"
+      ],
+      "series": "Senate Triangle",
+      "group": 1
+    },
+    {
+      "name": "15:35-41 NE Steps",
+      "characters": [
+        "Brother",
+        "Camel",
+        "Camo",
+        "Duck",
+        "Durfee",
+        "Kelly Meggs",
+        "Pack",
+        "Rhodes",
+        "Sour"
+      ],
+      "series": "NE Steps",
+      "group": 1
+    },
+    {
+      "name": "15:40 Police exit",
+      "characters": [
+        "Checkered",
+        "Dane",
+        "Dogman",
+        "Goofy",
+        "James",
+        "Minuta",
+        "Skully"
+      ],
+      "series": "Capitol steps",
+      "group": 2
+    },
+    {
+      "name": "15:49-16:30 Rhodes meetup",
+      "characters": [
+        "Brother",
+        "Camel",
+        "Camo",
+        "Connie Meggs",
+        "Dogman",
+        "Drewl",
+        "Duck",
+        "Durfee",
+        "Flag",
+        "Goofy",
+        "Harrelson",
+        "Helmet",
+        "James",
+        "Jeans",
+        "Kelly Meggs",
+        "Leather",
+        "Minuta",
+        "Pack",
+        "Pads",
+        "Rhodes",
+        "Smurf",
+        "Sour",
+        "Steele",
+        "String",
+        "Stubby",
+        "Tail",
+        "Todd",
+        "Young"
+      ],
+      "series": "Senate Triangle",
+      "group": 3
+    },
+    {
+      "name": "16:09 OH exit",
+      "characters": [
+        "Bennie Parker",
+        "Crowl",
+        "Sandra Parker",
+        "Watkins"
+      ],
+      "series": "NW Lawn",
+      "group": 1
+    },
+    {
+      "name": "16:51 AP attack",
+      "characters": [
+        "Camo",
+        "Dogman",
+        "Drewl",
+        "Goofy",
+        "James",
+        "Minuta",
+        "Pads",
+        "Smurf"
+      ],
+      "series": "NE Lawn",
+      "group": 2
+    },
+    {
+      "name": "17:13 Rhodes exit",
+      "characters": [
+        "Camo",
+        "Pads",
+        "Rhodes"
+      ],
+      "series": "NE Lawn",
+      "group": 2
+    }
+  ]
+}
