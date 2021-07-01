@@ -9,10 +9,6 @@
       "from": "red"
     },
     {
-      "name": "Watkins",
-      "from": "red"
-    },
-    {
       "name": "Connie Meggs",
       "from": "red"
     },
@@ -21,11 +17,11 @@
       "from": "red"
     },
     {
-      "name": "Steele",
+      "name": "Hackett",
       "from": "red"
     },
     {
-      "name": "Hackett",
+      "name": "Isaacs",
       "from": "red"
     },
     {
@@ -37,7 +33,7 @@
       "from": "red"
     },
     {
-      "name": "Pack",
+      "name": "Steele",
       "from": "red"
     },
     {
@@ -45,17 +41,20 @@
       "from": "red"
     },
     {
+      "name": "Watkins",
+      "from": "red"
+    },
+    {
       "name": "Young",
       "from": "red"
     },
 
-
     {
-      "name": "Harrelson",
+      "name": "Dolan",
       "from": "blue"
     },
     {
-      "name": "Dolan",
+      "name": "Harrelson",
       "from": "blue"
     },
 
@@ -73,10 +72,6 @@
     },
     {
       "name": "Dane",
-      "from": "green"
-    },
-    {
-      "name": "Walden",
       "from": "green"
     },
     {
@@ -147,6 +142,10 @@
       "name": "Uncle",
       "from": "green"
     },
+    {
+      "name": "Walden",
+      "from": "green"
+    },
 
     {
       "name": "Brother",
@@ -161,19 +160,7 @@
       "from": "yellow"
     },
     {
-      "name": "James",
-      "from": "yellow"
-    },
-    {
-      "name": "Jones",
-      "from": "yellow"
-    },
-    {
       "name": "Flag",
-      "from": "yellow"
-    },
-    {
-      "name": "Minuta",
       "from": "yellow"
     },
     {
@@ -182,6 +169,18 @@
     },
     {
       "name": "Grods",
+      "from": "yellow"
+    },
+    {
+      "name": "James",
+      "from": "yellow"
+    },
+    {
+      "name": "Jones",
+      "from": "yellow"
+    },
+    {
+      "name": "Minuta",
       "from": "yellow"
     },
     {
@@ -375,7 +374,7 @@
         "Bennie Parker",
         "Crowl",
         "Gruff",
-        "Pack",
+        "Isaacs",
         "Sandra Parker",
         "Watkins"
       ],
@@ -491,9 +490,9 @@
         "Goat",
         "Hackett",
         "Harrelson",
+        "Isaacs",
         "Kelly Meggs",
         "Leather",
-        "Pack",
         "Scarf",
         "Shorty",
         "Steele",
@@ -515,9 +514,9 @@
         "Goat",
         "Hackett",
         "Harrelson",
+        "Isaacs",
         "Kelly Meggs",
         "Leather",
-        "Pack",
         "Scarf",
         "Shorty",
         "Steele",
@@ -541,9 +540,9 @@
         "Gruff",
         "Hackett",
         "Harrelson",
+        "Isaacs",
         "Kelly Meggs",
         "Leather",
-        "Pack",
         "Sandra Parker",
         "Shorty",
         "Steele",
@@ -640,9 +639,9 @@
         "Dolan",
         "Hackett",
         "Harrelson",
+        "Isaacs",
         "Kelly Meggs",
         "Leather",
-        "Pack",
         "Sandra Parker",
         "Steele",
         "Tail",
@@ -669,9 +668,9 @@
         "Dolan",
         "Hackett",
         "Harrelson",
+        "Isaacs",
         "Kelly Meggs",
         "Leather",
-        "Pack",
         "Sandra Parker",
         "Steele",
         "String",
@@ -685,8 +684,8 @@
     {
       "name": "N of Rotunda",
       "characters": [
+        "Isaacs",
         "Sandra Parker",
-        "Pack",
         "Tail",
         "Crowl",
         "Watkins",
@@ -742,9 +741,9 @@
         "Dolan",
         "Hackett",
         "Harrelson",
+        "Isaacs",
         "Kelly Meggs",
         "Leather",
-        "Pack",
         "Sandra Parker",
         "Steele",
         "Tail",
@@ -775,9 +774,9 @@
         "Dolan",
         "Hackett",
         "Harrelson",
+        "Isaacs",
         "Kelly Meggs",
         "Leather",
-        "Pack",
         "Steele",
         "Tail",
         "Watkins"
@@ -803,8 +802,8 @@
         "Dolan",
         "Durfee",
         "Hackett",
+        "Isaacs",
         "Kelly Meggs",
-        "Pack",
         "Rhodes",
         "SoRelle"
       ],
@@ -841,12 +840,12 @@
         "Hackett",
         "Harrelson",
         "Helmet",
+        "Isaacs",
         "James",
         "Jeans",
         "Kelly Meggs",
         "Leather",
         "Minuta",
-        "Pack",
         "Pads",
         "Rhodes",
         "SoRelle",
