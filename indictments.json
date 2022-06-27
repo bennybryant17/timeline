@@ -1,0 +1,470 @@
+{
+  "characters": [
+    {
+      "name": "Beeks 11/23",
+      "from": "green"
+    },
+    {
+      "name": "Berry 7/9",
+      "from": "red"
+    },
+    {
+      "name": "B Parker 2/18",
+      "from": "green"
+    },
+    {
+      "name": "Breheny 5/20",
+      "from": "green"
+    },
+    {
+      "name": "Brown DC 9/30",
+      "from": "yellow"
+    },
+    {
+      "name": "Brown FL 10/7",
+      "from": "yellow"
+    },
+    {
+      "name": "Caldwell 1/19",
+      "from": "green"
+    },
+    {
+      "name": "Crowl 1/18",
+      "from": "green"
+    },
+    {
+      "name": "C Meggs 2/17",
+      "from": "green"
+    },
+    {
+      "name": "Dolan 5/27",
+      "from": "red"
+    },
+    {
+      "name": "Gray 6/15/22",
+      "from": "green"
+    },
+    {
+      "name": "Greene 6/23/22",
+      "from": "red"
+    },
+    {
+      "name": "Grods 6/30",
+      "from": "red"
+    },
+    {
+      "name": "Hackett 5/28",
+      "from": "green"
+    },
+    {
+      "name": "Hallon 6/15/22",
+      "from": "green"
+    },
+    {
+      "name": "Harrelson 3/10",
+      "from": "yellow"
+    },
+    {
+      "name": "James 3/9",
+      "from": "red"
+    },
+    {
+      "name": "K Meggs 2/17",
+      "from": "yellow"
+    },
+    {
+      "name": "Minuta 3/8",
+      "from": "green"
+    },
+    {
+      "name": "Moerschel 7/2",
+      "from": "green"
+    },
+    {
+      "name": "Rhodes 1/13/22",
+      "from": "yellow"
+    },
+    {
+      "name": "S Parker 2/18",
+      "from": "green"
+    },
+    {
+      "name": "Steele 2/17",
+      "from": "green"
+    },
+    {
+      "name": "T Isaacs 6/15/22",
+      "from": "green"
+    },
+    {
+      "name": "Ulrich 8/9",
+      "from": "red"
+    },
+    {
+      "name": "Vallejo 1/13/22",
+      "from": "green"
+    },
+    {
+      "name": "Walden 6/3",
+      "from": "green"
+    },
+    {
+      "name": "Watkins 1/18",
+      "from": "yellow"
+    },
+    {
+      "name": "Wilson 5/4",
+      "from": "red"
+    },
+    {
+      "name": "W Isaacs 5/27",
+      "from": "green"
+    },
+    {
+      "name": "Young 2/15",
+      "from": "red"
+    }
+  ],
+  "films": [
+    {
+      "name": "Caldwell et al. 1/27/21 (3)",
+      "source": "https://www.justice.gov/opa/case-multi-defendant/file/1361066/download",
+      "characters": [
+        "Caldwell 1/19",
+        "Crowl 1/18",
+        "Watkins 1/18"
+      ],
+      "series": "January",
+      "group": 4
+    },
+    {
+      "name": "S1 2/19/21 (9)",
+      "source": "https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Caldwell%20et%20al%20First%20Superseding%20Indictment.pdf",
+      "characters": [
+        "Caldwell 1/19",
+        "Crowl 1/18",
+        "C Meggs 2/17",
+        "K Meggs 2/17",
+        "B Parker 2/18",
+        "S Parker 2/18",
+        "Steele 2/17",
+        "Watkins 1/18",
+        "Young 2/15"
+      ],
+      "series": "February",
+      "group": 4
+    },
+    {
+      "name": "S2 3/12/21 (10)",
+      "source": "https://www.justice.gov/usao-dc/case-multi-defendant/file/1378526/download",
+      "characters": [
+        "Caldwell 1/19",
+        "Crowl 1/18",
+        "Harrelson 3/10",
+        "B Parker 2/18",
+        "S Parker 2/18",
+        "K Meggs 2/17",
+        "C Meggs 2/17",
+        "Steele 2/17",
+        "Watkins 1/18",
+        "Young 2/15"
+      ],
+      "series": "March",
+      "group": 4
+    },
+    {
+      "name": "S3 3/31/21 (12)",
+      "source": "https://www.justice.gov/usao-dc/press-release/file/1382471/download",
+      "characters": [
+        "Caldwell 1/19",
+        "Crowl 1/18",
+        "Harrelson 3/10",
+        "James 3/9",
+        "C Meggs 2/17",
+        "K Meggs 2/17",
+        "Minuta 3/8",
+        "B Parker 2/18",
+        "S Parker 2/18",
+        "Steele 2/17",
+        "Watkins 1/18",
+        "Young 2/15"
+      ],
+      "series": "March",
+      "group": 4
+    },
+    {
+      "name": "S4 5/26/21 (16)",
+      "source": "https://www.justice.gov/usao-dc/press-release/file/1401076/download",
+      "characters": [
+        "Caldwell 1/19",
+        "Crowl 1/18",
+        "Dolan 5/27",
+        "Hackett 5/28",
+        "Harrelson 3/10",
+        "W Isaacs 5/27",
+        "James 3/9",
+        "K Meggs 2/17",
+        "C Meggs 2/17",
+        "Minuta 3/8",
+        "B Parker 2/18",
+        "S Parker 2/18",
+        "Steele 2/17",
+        "Young 2/15",
+        "Walden 6/3",
+        "Watkins 1/18"
+      ],
+      "series": "May",
+      "group": 4
+    },
+    {
+      "name": "arrested 5/20/21",
+      "characters": [
+        "Breheny 5/20"
+      ],
+      "series": "May",
+      "group": 4
+    },
+    {
+      "name": "Young guilty 6/26/21",
+      "characters": [
+        "Young 2/15"
+      ],
+      "series": "June",
+      "group": 4
+    },
+    {
+      "name": "guilty 6/30/21",
+      "characters": [
+        "Grods 6/30"
+      ],
+      "series": "June",
+      "group": 4
+    },
+    {
+      "name": "guilty 7/20/21",
+      "characters": [
+        "Berry 7/9"
+      ],
+      "series": "July",
+      "group": 4
+    },
+    {
+      "name": "S5 8/4/21 (17)",
+      "source": "https://www.justice.gov/usao-dc/press-release/file/1401076/download",
+      "characters": [
+        "Caldwell 1/19",
+        "Crowl 1/18",
+        "Dolan 5/27",
+        "Hackett 5/28",
+        "Harrelson 3/10",
+        "W Isaacs 5/27",
+        "James 3/9",
+        "C Meggs 2/17",
+        "K Meggs 2/17",
+        "Minuta 3/8",
+        "Moerschel 7/2",
+        "B Parker 2/18",
+        "S Parker 2/18",
+        "Steele 2/17",
+        "Ulrich 8/9",
+        "Walden 6/3",
+        "Watkins 1/18"
+      ],
+      "series": "August",
+      "group": 4
+    },
+    {
+      "name": "Dolan guilty 9/15/21",
+      "characters": [
+        "Dolan 5/27"
+      ],
+      "series": "September",
+      "group": 4
+    },
+    {
+      "name": "charged 10/1/21",
+      "characters": [
+        "Brown DC 9/30"
+      ],
+      "series": "October",
+      "group": 4
+    },
+    {
+      "name": "10/20/21",
+      "characters": [
+        "Brown FL 10/7"
+      ],
+      "series": "October",
+      "group": 4
+    },
+    {
+      "name": "S6 12/3/21 (17)",
+      "source": "https://s3.documentcloud.org/documents/21129831/oath-keepers-6th-superseding-indictment.pdf",
+      "characters": [
+        "Beeks 11/23",
+        "Caldwell 1/19",
+        "Crowl 1/18",
+        "Hackett 5/28",
+        "Harrelson 3/10",
+        "W Isaacs 5/27",
+        "James 3/9",
+        "C Meggs 2/17",
+        "K Meggs 2/17",
+        "Minuta 3/8",
+        "Moerschel 7/2",
+        "B Parker 2/18",
+        "S Parker 2/18",
+        "Steele 2/17",
+        "Ulrich 8/9",
+        "Walden 6/3",
+        "Watkins 1/18"
+      ],
+      "series": "December",
+      "group": 4
+    },
+    {
+      "name": "S7 1/13/22 (7)",
+      "source": "https://www.justice.gov/usao-dc/pr/leader-oath-keepers-and-10-other-individuals-indicted-federal-court-seditious-conspiracy",
+      "characters": [
+        "Beeks 11/23",
+        "Crowl 1/18",
+        "W Isaacs 5/27",
+        "C Meggs 2/17",
+        "S Parker 2/18",
+        "B Parker 2/18",
+        "Steele 2/17"
+      ],
+      "series": "January",
+      "group": 4
+    },
+    {
+      "name": "Rhodes et al. 1/13/22 (11)",
+      "source": "https://www.justice.gov/usao-dc/pr/leader-oath-keepers-and-10-other-individuals-indicted-federal-court-seditious-conspiracy",
+      "characters": [
+        "Rhodes 1/13/22",
+        "Caldwell 1/19",
+        "Watkins 1/18",
+        "K Meggs 2/17",
+        "Harrelson 3/10",
+        "Minuta 3/8",
+        "James 3/9",
+        "Hackett 5/28",
+        "Moerschel 7/2",
+        "Ulrich 8/9",
+        "Vallejo 1/13/22"
+      ],
+      "series": "January",
+      "group": 4
+    },
+    {
+      "name": "Walden 1/13/22",
+      "source": "https://www.justice.gov/usao-dc/pr/leader-oath-keepers-and-10-other-individuals-indicted-federal-court-seditious-conspiracy",
+      "characters": [
+        "Walden 6/3"
+      ],
+      "series": "January",
+      "group": 4
+    },
+    {
+      "name": "James guilty 3/2/22",
+      "characters": [
+        "James 3/9"
+      ],
+      "series": "March",
+      "group": 4
+    },
+    {
+      "name": "Brown S1 4/12/22",
+      "source": "https://storage.courtlistener.com/recap/gov.uscourts.flmd.395204/gov.uscourts.flmd.395204.159.0.pdf",
+      "characters": [
+        "Brown FL 10/7"
+      ],
+      "series": "April",
+      "group": 4
+    },
+    {
+      "name": "Ulrich guilty 4/29/22",
+      "characters": [
+        "Ulrich 8/9"
+      ],
+      "series": "April",
+      "group": 4
+    },
+    {
+      "name": "Wilson guilty 5/4/22",
+      "characters": [
+        "Wilson 5/4"
+      ],
+      "series": "May",
+      "group": 4
+    },
+    {
+      "name": "Gray et al. 6/6/22 (3)",
+      "characters": [
+        "Gray 6/15/22",
+        "Hallon 6/15/22",
+        "T Isaacs 6/15/22"
+      ],
+      "series": "June",
+      "group": 4
+    },
+    {
+      "name": "Rhodes et al. S1 6/23/22 (9)",
+      "source": "https://s3.documentcloud.org/documents/22066681/220623-superseding-rhodes.pdf",
+      "characters": [
+        "Caldwell 1/19",
+        "Hackett 5/28",
+        "Harrelson 3/10",
+        "K Meggs 2/17",
+        "Minuta 3/8",
+        "Moerschel 7/2",
+        "Rhodes 1/13/22",
+        "Watkins 1/18",
+        "Vallejo 1/13/22"
+      ],
+      "series": "June",
+      "group": 4
+    },
+    {
+      "name": "S8 6/22/22 (8)",
+      "source": "https://www.justice.gov/usao-dc/pr/member-oath-keepers-indicted-conspiracy-and-other-offenses-related-us-capitol-breach",
+      "characters": [
+        "Beeks 11/23",
+        "Crowl 1/18",
+        "Greene 6/23/22",
+        "W Isaacs 5/27",
+        "C Meggs 2/17",
+        "S Parker 2/18",
+        "B Parker 2/18",
+        "Steele 2/17"
+      ],
+      "series": "January",
+      "group": 4
+    },
+
+
+    {
+      "name": "September Trial Group 9/26/22 (5)",
+      "characters": [
+        "Caldwell 1/19",
+        "Harrelson 3/10",
+        "K Meggs 2/17",
+        "Rhodes 1/13/22",
+        "Watkins 1/18"
+      ],
+      "series": "September",
+      "group": 4
+    },
+    {
+      "name": "November Trial Group 11/29/22 (4)",
+      "characters": [
+        "Minuta 3/8",
+        "Hackett 5/28",
+        "Moerschel 7/2",
+        "Vallejo 1/13/22"
+      ],
+      "series": "November",
+      "group": 4
+    }
+  ]
+}

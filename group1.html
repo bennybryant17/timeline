@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="robots" content="noindex">
+	<title>Timeline</title>
+	<link rel="icon" href="favicon.ico">
+	<link href="main.css" rel="stylesheet">
+</head>
+<body>
+	<p><a href="index.html">all</a>
+	| <a href="before.html">before</a>
+	| <a href="dc.html">DC 5th and 6th</a>
+	| <b>group 1</b>
+	| <a href="group2.html">group 2</a>
+	</p>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/es5-shim/4.5.10/es5-shim.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/es6-shim/0.35.3/es6-shim.js"></script>
+	<script src="https://d3js.org/d3.v3.min.js"></script>
+	<script src="https://d3js.org/d3-timer.v1.min.js"></script>
+	<script src="narrative.js"></script>
+<!--
+	<script src="https://cdn.rawgit.com/abcnews/d3-layout-narrative/1.0.0/narrative.js"></script>
+ -->
+	<script src="chart.js"></script>
+	<script>
+		load_narrative('data.json', 1);
+	</script>
+</body>
+</html>
