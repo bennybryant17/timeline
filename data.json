@@ -159,6 +159,10 @@
       "from": "green"
     },
     {
+      "name": "Siekerman",
+      "from": "green"
+    },
+    {
       "name": "Uncle",
       "from": "green"
     },
@@ -205,6 +209,10 @@
     },
     {
       "name": "Jones",
+      "from": "yellow"
+    },
+    {
+      "name": "Lunchbox",
       "from": "yellow"
     },
     {
@@ -343,10 +351,12 @@
         "Minuta",
         "Rhodes",
         "Sandra Parker",
+        "Siekerman",
         "Siniff",
         "SoRelle",
         "Toe",
-        "Watkins"
+        "Watkins",
+        "Young"
       ],
       "series": "November",
       "group": 4
@@ -357,7 +367,9 @@
         "Greene",
         "James",
         "Jones",
-        "Rhodes"
+        "Rhodes",
+        "SoRelle",
+        "Siekerman"
       ],
       "series": "November",
       "group": 4
@@ -365,9 +377,11 @@
     {
       "name": "12/12 Million MAGA March DC",
       "characters": [
+        "Caldwell",
         "James",
         "Minuta",
-        "Rhodes"
+        "Rhodes",
+        "Siekerman"
       ],
       "series": "December",
       "group": 4
@@ -456,7 +470,20 @@
       "group": 1
     },
     {
-      "name": "5th Tent inside",
+      "name": "5th 18:24 Freedom Plaza",
+      "source": "https://youtu.be/HH5c0iPKxt4?t=390 and https://youtu.be/HH5c0iPKxt4?t=326",
+      "characters": [
+        "Drewl",
+        "Jeans",
+        "Kandaris",
+        "Lunchbox",
+        "Vallejo"
+      ],
+      "series": "Freedom Plaza",
+      "group": 2
+    },
+    {
+      "name": "5th <19:50 Tent inside",
       "characters": [
         "Checkered",
         "Goofy",
@@ -471,7 +498,7 @@
       "group": 2
     },
     {
-      "name": "5th Willard hotel",
+      "name": "5th >19:50 Willard hotel",
       "characters": [
         "Checkered",
         "Drewl",
@@ -525,6 +552,16 @@
       ],
       "series": "Stone",
       "group": 2
+    },
+    {
+      "name": "~10:43-49 Freedom Rally",
+      "source": "https://ia804504.us.archive.org/9/items/mKsKKo7tr5Jyx2JnN/mKsKKo7tr5Jyx2JnN.mpeg4",
+      "characters": [
+        "Rhodes",
+        "SoRelle"
+      ],
+      "series": "Freedom Rally",
+      "group": 1
     },
     {
       "name": "11:09 150 15th St. NW",
@@ -612,6 +649,18 @@
       ],
       "series": "Ellipse",
       "group": 1
+    },
+    {
+      "name": "~13:00 Freedom Rally",
+      "source": "https://ia804504.us.archive.org/9/items/mKsKKo7tr5Jyx2JnN/mKsKKo7tr5Jyx2JnN.mpeg4",
+      "characters": [
+        "Drewl",
+        "Jeans",
+        "Lunchbox",
+        "Pads"
+      ],
+      "series": "Freedom Rally",
+      "group": 2
     },
     {
       "name": "13:42? Big screen",
@@ -1108,6 +1157,7 @@
         "Goofy",
         "Grods",
         "James",
+        "Lunchbox",
         "Minuta",
         "Pads",
         "Walden"

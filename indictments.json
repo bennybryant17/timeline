@@ -46,7 +46,7 @@
     },
     {
       "name": "Greene 6/23/22",
-      "from": "red"
+      "from": "green"
     },
     {
       "name": "Grods 6/30",
@@ -83,6 +83,10 @@
     {
       "name": "Rhodes 1/13/22",
       "from": "yellow"
+    },
+    {
+      "name": "SoRelle 9/1/22",
+      "from": "green"
     },
     {
       "name": "S Parker 2/18",
@@ -438,13 +442,20 @@
         "B Parker 2/18",
         "Steele 2/17"
       ],
-      "series": "January",
+      "series": "June",
       "group": 4
     },
-
-
     {
-      "name": "September Trial Group 9/26/22 (5)",
+      "name": "SoRelle 9/1/22",
+      "source": "https://twitter.com/kyledcheney/status/1565352447253524483",
+      "characters": [
+        "SoRelle 9/1/22"
+      ],
+      "series": "September",
+      "group": 4
+    },
+    {
+      "name": "September Trial Group 9/27/22 (5)",
       "characters": [
         "Caldwell 1/19",
         "Harrelson 3/10",
@@ -464,6 +475,38 @@
         "Vallejo 1/13/22"
       ],
       "series": "November",
+      "group": 4
+    },
+    {
+      "name": "Brown FL trial 12/5/22",
+      "characters": [
+        "Brown FL 10/7"
+      ],
+      "series": "December",
+      "group": 4
+    },
+    {
+      "name": "Crowl et al trial 2/1/23 (8)",
+      "source": "https://www.courtlistener.com/docket/59677015/united-states-v-caldwell/?order_by=desc#entry-703 and https://media.dcd.uscourts.gov/datepicker/index.html",
+      "characters": [
+        "Beeks 11/23",
+        "Crowl 1/18",
+        "Greene 6/23/22",
+        "W Isaacs 5/27",
+        "C Meggs 2/17",
+        "S Parker 2/18",
+        "B Parker 2/18",
+        "Steele 2/17"
+      ],
+      "series": "February",
+      "group": 4
+    },
+    {
+      "name": "Walden trial 4/3/23",
+      "characters": [
+        "Walden 6/3"
+      ],
+      "series": "April",
       "group": 4
     }
   ]
