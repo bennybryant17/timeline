@@ -403,7 +403,7 @@
       "group": 4
     },
     {
-      "name": "Gray et al. 6/6/22 (3)",
+      "name": "Gray et al. complaint 6/6/22 (3)",
       "characters": [
         "Gray 6/15/22",
         "Hallon 6/15/22",
@@ -464,6 +464,15 @@
         "Watkins 1/18"
       ],
       "series": "September",
+      "group": 4
+    },
+    {
+      "name": "Gray & Isaacs 10/12/22 (2)",
+      "characters": [
+        "Gray 6/15/22",
+        "T Isaacs 6/15/22"
+      ],
+      "series": "October",
       "group": 4
     },
     {
