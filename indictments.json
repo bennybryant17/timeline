@@ -403,11 +403,10 @@
       "group": 4
     },
     {
-      "name": "Gray et al. complaint 6/6/22 (3)",
+      "name": "Hallon 6/16/22 (3)",
+      "source": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.244544/gov.uscourts.dcd.244544.7.0.pdf",
       "characters": [
-        "Gray 6/15/22",
-        "Hallon 6/15/22",
-        "T Isaacs 6/15/22"
+        "Hallon 6/15/22"
       ],
       "series": "June",
       "group": 4
@@ -468,6 +467,7 @@
     },
     {
       "name": "Gray & Isaacs 10/12/22 (2)",
+      "source": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.248185/gov.uscourts.dcd.248185.22.0.pdf",
       "characters": [
         "Gray 6/15/22",
         "T Isaacs 6/15/22"
