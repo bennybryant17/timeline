@@ -26,7 +26,7 @@
     },
     {
       "name": "Caldwell 1/19",
-      "from": "green"
+      "from": "red"
     },
     {
       "name": "Crowl 1/18",
@@ -62,7 +62,7 @@
     },
     {
       "name": "Harrelson 3/10",
-      "from": "yellow"
+      "from": "red"
     },
     {
       "name": "James 3/9",
@@ -70,7 +70,7 @@
     },
     {
       "name": "K Meggs 2/17",
-      "from": "yellow"
+      "from": "red"
     },
     {
       "name": "Minuta 3/8",
@@ -82,7 +82,7 @@
     },
     {
       "name": "Rhodes 1/13/22",
-      "from": "yellow"
+      "from": "red"
     },
     {
       "name": "SoRelle 9/1/22",
@@ -114,7 +114,7 @@
     },
     {
       "name": "Watkins 1/18",
-      "from": "yellow"
+      "from": "red"
     },
     {
       "name": "Wilson 5/4",
@@ -484,6 +484,71 @@
       "series": "November",
       "group": 4
     },
+
+
+    {
+      "name": "C1 guilty: Seditious conspiracy (2)",
+      "characters": [
+        "K Meggs 2/17",
+        "Rhodes 1/13/22"
+      ],
+      "series": "November",
+      "group": 4
+    },
+    {
+      "name": "C2 guilty: Conspiracy to obstruct (2)",
+      "characters": [
+        "K Meggs 2/17",
+        "Watkins 1/18"
+      ],
+      "series": "November",
+      "group": 4
+    },
+    {
+      "name": "C3 guilty: Obstruction (5)",
+      "characters": [
+        "Caldwell 1/19",
+        "Harrelson 3/10",
+        "K Meggs 2/17",
+        "Rhodes 1/13/22",
+        "Watkins 1/18"
+      ],
+      "series": "November",
+      "group": 4
+    },
+    {
+      "name": "C4 guilty: Conspiracy to prevent (3)",
+      "characters": [
+        "Harrelson 3/10",
+        "K Meggs 2/17",
+        "Watkins 1/18"
+      ],
+      "series": "November",
+      "group": 4
+    },
+    {
+      "name": "C6 guilty: Civil disorder",
+      "characters": [
+        "Watkins 1/18"
+      ],
+      "series": "November",
+      "group": 4
+    },
+    {
+      "name": "C7-13 guilty: Tampering (4)",
+      "characters": [
+        "Caldwell 1/19",
+        "Harrelson 3/10",
+        "K Meggs 2/17",
+        "Rhodes 1/13/22"
+      ],
+      "series": "November",
+      "group": 4
+    },
+
+
+
+
     {
       "name": "December Trial Group 12/5/22 (4)",
       "characters": [
