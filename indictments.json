@@ -485,7 +485,6 @@
       "group": 4
     },
 
-
     {
       "name": "C1 guilty: Seditious conspiracy 11/29/22 (2)",
       "characters": [
@@ -546,24 +545,21 @@
       "group": 4
     },
 
-
-
-
     {
-      "name": "December Trial Group 12/5/22 (4)",
+      "name": "Brown FL trial 12/5/22",
       "characters": [
-        "Minuta 3/8",
-        "Hackett 5/28",
-        "Moerschel 7/2",
-        "Vallejo 1/13/22"
+        "Brown FL 10/7"
       ],
       "series": "December",
       "group": 4
     },
     {
-      "name": "Brown FL trial 12/5/22",
+      "name": "December Trial Group 12/6/22 (4)",
       "characters": [
-        "Brown FL 10/7"
+        "Minuta 3/8",
+        "Hackett 5/28",
+        "Moerschel 7/2",
+        "Vallejo 1/13/22"
       ],
       "series": "December",
       "group": 4
