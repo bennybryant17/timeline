@@ -147,7 +147,7 @@
       "from": "green"
     },
     {
-      "name": "Toe",
+      "name": "Morelock",
       "from": "green"
     },
     {
@@ -268,6 +268,7 @@
         "Harrelson",
         "Kelly Meggs",
         "LennyNotBenny",
+        "Morelock",
         "PastelCrayon",
         "Rhodes",
         "Siniff",
@@ -275,6 +276,17 @@
         "Wilson"
       ],
       "series": "September",
+      "group": 4
+    },
+    {
+      "name": "10/10-11 Red Pill Expo GA",
+      "source": "https://www.govinfo.gov/content/pkg/GPO-J6-TRANSCRIPT-CTRL0000038860/pdf/GPO-J6-TRANSCRIPT-CTRL0000038860.pdf",
+      "characters": [
+        "Morelock",
+        "Rhodes",
+        "SoRelle"
+      ],
+      "series": "October",
       "group": 4
     },
     {
@@ -287,6 +299,17 @@
         "Zack Meggs"
       ],
       "series": "October",
+      "group": 4
+    },
+    {
+      "name": "11/4 Detroit MI",
+      "source": "https://www.govinfo.gov/content/pkg/GPO-J6-TRANSCRIPT-CTRL0000038860/pdf/GPO-J6-TRANSCRIPT-CTRL0000038860.pdf",
+      "characters": [
+        "Greene",
+        "Morelock",
+        "SoRelle"
+      ],
+      "series": "November",
       "group": 4
     },
     {
@@ -348,13 +371,13 @@
         "James",
         "Jones",
         "Kelly Meggs",
+        "Morelock",
         "Minuta",
         "Rhodes",
         "Sandra Parker",
         "Siekerman",
         "Siniff",
         "SoRelle",
-        "Toe",
         "Watkins",
         "Young"
       ],
@@ -411,8 +434,8 @@
       "characters": [
         "Connie Meggs",
         "Zack Meggs",
+        "Morelock",
         "Stone",
-        "Toe",
         "Young"
       ],
       "series": "December",
@@ -495,9 +518,9 @@
         "Greene",
         "Grods",
         "James",
+        "Morelock",
         "Stone",
-        "Thumb",
-        "Toe"
+        "Thumb"
       ],
       "series": "Stone",
       "group": 2
@@ -765,9 +788,9 @@
         "Hackett",
         "Kelly Meggs",
         "Moerschel",
+        "Morelock",
         "Sandra Parker",
         "Steele",
-        "Toe",
         "Watkins",
         "Young"
       ],
@@ -950,9 +973,9 @@
       "characters": [
         "Bennie Parker",
         "Brown",
+        "Morelock",
         "Shorty",
-        "Stubby",
-        "Toe"
+        "Stubby"
       ],
       "series": "NE Plaza",
       "group": 1
