@@ -58,7 +58,7 @@
     },
     {
       "name": "Hallon 6/15/22",
-      "from": "green"
+      "from": "red"
     },
     {
       "name": "Harrelson 3/10",
@@ -403,7 +403,7 @@
       "group": 4
     },
     {
-      "name": "Hallon 6/16/22 (3)",
+      "name": "Hallon 6/16/22",
       "source": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.244544/gov.uscourts.dcd.244544.7.0.pdf",
       "characters": [
         "Hallon 6/15/22"
@@ -466,7 +466,7 @@
       "group": 4
     },
     {
-      "name": "Gray & Isaacs 10/12/22 (2)",
+      "name": "Gray & Isaacs 10/12/22",
       "source": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.248185/gov.uscourts.dcd.248185.22.0.pdf",
       "characters": [
         "Gray 6/15/22",
@@ -570,6 +570,15 @@
         "Brown FL 10/7"
       ],
       "series": "December",
+      "group": 4
+    },
+    {
+      "name": "Hallon guilty 12/14/22",
+      "source": "https://www.justice.gov/usao-dc/defendants/hallon-luis",
+      "characters": [
+        "Hallon 6/15/22"
+      ],
+      "series": "June",
       "group": 4
     },
     {
