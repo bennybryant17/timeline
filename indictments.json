@@ -54,7 +54,7 @@
     },
     {
       "name": "Hackett 5/28",
-      "from": "green"
+      "from": "red"
     },
     {
       "name": "Hallon 6/15/22",
@@ -74,11 +74,11 @@
     },
     {
       "name": "Minuta 3/8",
-      "from": "green"
+      "from": "red"
     },
     {
       "name": "Moerschel 7/2",
-      "from": "green"
+      "from": "red"
     },
     {
       "name": "Rhodes 1/13/22",
@@ -106,7 +106,7 @@
     },
     {
       "name": "Vallejo 1/13/22",
-      "from": "green"
+      "from": "red"
     },
     {
       "name": "Walden 6/3",
@@ -578,9 +578,73 @@
       "characters": [
         "Hallon 6/15/22"
       ],
-      "series": "June",
+      "series": "December",
       "group": 4
     },
+
+    {
+      "name": "C1 guilty: Seditious conspiracy 1/23/23 (4)",
+      "characters": [
+        "Minuta 3/8",
+        "Hackett 5/28",
+        "Moerschel 7/2",
+        "Vallejo 1/13/22"
+      ],
+      "series": "January",
+      "group": 4
+    },
+    {
+      "name": "C2 guilty: Conspiracy to obstruct (4)",
+      "characters": [
+        "Minuta 3/8",
+        "Hackett 5/28",
+        "Moerschel 7/2",
+        "Vallejo 1/13/22"
+      ],
+      "series": "January",
+      "group": 4
+    },
+    {
+      "name": "C3 guilty: Obstruction (4)",
+      "characters": [
+        "Minuta 3/8",
+        "Hackett 5/28",
+        "Moerschel 7/2",
+        "Vallejo 1/13/22"
+      ],
+      "series": "January",
+      "group": 4
+    },
+    {
+      "name": "C4 guilty: Conspiracy to prevent (4)",
+      "characters": [
+        "Minuta 3/8",
+        "Hackett 5/28",
+        "Moerschel 7/2",
+        "Vallejo 1/13/22"
+      ],
+      "series": "January",
+      "group": 4
+    },
+    {
+      "name": "C5 guilty: Destruction of gov property (2)",
+      "characters": [
+        "Hackett 5/28",
+        "Moerschel 7/2"
+      ],
+      "series": "January",
+      "group": 4
+    },
+    {
+      "name": "C14 guilty: Tampering (1)",
+      "characters": [
+        "Hackett 5/28"
+      ],
+      "series": "January",
+      "group": 4
+    },
+
+
     {
       "name": "Crowl et al trial 2/1/23 (8)",
       "source": "https://www.courtlistener.com/docket/59677015/united-states-v-caldwell/?order_by=desc#entry-703 and https://media.dcd.uscourts.gov/datepicker/index.html",
