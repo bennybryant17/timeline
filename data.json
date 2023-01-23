@@ -490,7 +490,9 @@
       "name": "5th garage",
       "also": "Tarrio, Gracia, Macias",
       "characters": [
+      	"Helmet",
         "Pads",
+        "PastelCrayon",
         "Rhodes",
         "SoRelle"
       ],
